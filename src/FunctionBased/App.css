@@ -57,15 +57,15 @@ body {
   margin-right: 10px;
 }
 
-.input-submit:hover {
- border: 1px solid gray;
- padding-left: 5px;
- padding-right: 5px;
-}
-
 .input-text,
 .input-submit {
   height: 40px;
   outline: none;
   border: none;
+}
+
+.input-submit:hover {
+  border: 1px solid gray;
+  padding-left: 5px;
+  padding-right: 5px;
 }
